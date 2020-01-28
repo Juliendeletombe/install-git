@@ -61,7 +61,7 @@ docker run -v bitbucketVolume:/var/atlassian/application-data/bitbucket --name="
 ## Installer docker-compose
 Si vous avez perdu votre connexion avec virtualenv faites  
 ```shell script
-   source ~/intall-docker-centos7/venv/bin/activate
+   source ~/install-docker-centos7/venv/bin/activate
 ```
 autrement faites
 ```shell script
